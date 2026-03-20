@@ -1,7 +1,7 @@
 ## Bem-vindo(a) me chamo Adriano Maia 😁
 
  <div>
-   <a href="https://github.com/Salsicha455">
+   <a href="https://github.com/AdrianoMaia45">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salsicha455&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salsicha455&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
