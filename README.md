@@ -25,15 +25,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AdrianoMaia45&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoMaia45&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800"/>
-</div>
-
----
-
 ## 🌐 Redes sociais
 
 <div> 
